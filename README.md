@@ -37,7 +37,7 @@ conda activate mlproj
 pip install -r requirements.txt
 ```
 
-
+### Step before deployment
 ```bash
 python app.py
 app -> http://localhost:8080/
