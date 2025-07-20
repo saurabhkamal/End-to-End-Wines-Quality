@@ -110,7 +110,7 @@ app -> http://localhost:8080/
 
     AWS_SECRET_ACCESS_KEY=
 
-    AWS_REGION = us-east-1
+    AWS_REGION = eu-west-2
 
     AWS_ECR_LOGIN_URI = demo>>
 
